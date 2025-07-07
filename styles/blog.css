@@ -13,3 +13,11 @@
     padding: 10px;
     font-size: larger;
 }
+
+img {
+
+    width: 500px;
+    height: 400px;
+    margin: 50px;
+    text-align: center;
+}
